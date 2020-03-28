@@ -445,6 +445,8 @@ public class Programa {
 		System.out.println("Minutes: " + minutes);
 		System.out.println("Month: " + month);
 		
+		System.out.println("Boa Noite");
+		
 		sc.close(); 
 	}
 }
